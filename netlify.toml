@@ -1,0 +1,4 @@
+[[redirects]]
+    from = "/frontend-mentor/product-preview-card/*" 
+    to = "https://fanciful-strudel-294ec8.netlify.app"
+    status = 200
